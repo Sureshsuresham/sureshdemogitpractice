@@ -1,0 +1,11 @@
+package com.basicjava;
+
+public class ThrowsException {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Desktop d
+	}
+
+}
